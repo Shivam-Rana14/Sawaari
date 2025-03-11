@@ -26,5 +26,3 @@ Urban Commute Navigator is a MERN stack application designed to streamline urban
 ## Contribution
 Feel free to open issues or submit pull requests if you have suggestions or improvements!
 
-## License
-This project is licensed under the MIT License.
